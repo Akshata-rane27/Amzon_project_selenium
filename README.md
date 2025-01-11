@@ -10,4 +10,5 @@ This project has the example code for an automation testing project for the Amaz
 * Sign in to the website and verify the account information.
 
 🛠️ Contributing
+
 Contributions are welcome! To contribute, please fork this repository, make changes, and submit a pull request.
