@@ -3,6 +3,7 @@
 Don't forget to give a ⭐ to make the project popular.
 
 This project has the example code for an automation testing project for the Amazon e-commerce website using Selenium WebDriver Java, TestNG, Data driven framework, and Cucumber.
+
 ✨ Scenario covered:
 * search for a product and verify the search results.
 * Add a product to the cart and verify the cart.
