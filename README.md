@@ -1,5 +1,5 @@
 # Amzon_project_selenium
-
+✨ Scenario covered:
 * search for a product and verify the search results.
 * Add a product to the cart and verify the cart.
 * Apply filters to product
